@@ -27,7 +27,7 @@
                     </td>
                 </tr>
                 <tr>
-                    <td class="style2">z:</td>
+                    <td class="style2">Dil Seçimi:</td>
                     <td>
                         <asp:DropDownList ID="ddltolang" runat="server">
                             <asp:ListItem Value="en">English</asp:ListItem>
